@@ -1,5 +1,5 @@
 
-# 📚 Local Library  
+# 📚 Book Manager  
 A web application built with Django for managing a local library. It allows users to browse books, view details, and manage their book rentals.
 
 ## 📌 Demo  
@@ -50,4 +50,4 @@ Now, open [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser to ex
 
 ---
 
-✨ **Enjoy managing your books and rentals with the Local Library App!**
+✨ **Enjoy managing your books and rentals with the Book Manager App!**
