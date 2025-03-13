@@ -20,3 +20,28 @@ Clone the repository:
 ```bash
 git clone https://github.com/omidranjbaran/locallibrary.git
 cd locallibrary
+```
+Create a virtual environment and install dependencies:
+
+```bash
+python -m venv env
+source env/bin/activate  # On Windows use: env\Scripts\activate
+pip install -r requirements.txt
+```
+Run database migrations:
+
+```bash
+python manage.py migrate
+```
+Create a superuser for admin access:
+
+```bash
+python manage.py createsuperuser
+```
+Start the development server:
+
+```bash
+python manage.py runserver
+```
+
+Now, open http://127.0.0.1:8000/ in your browser.
