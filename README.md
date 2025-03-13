@@ -2,7 +2,7 @@
 A web application for managing a local library. It allows users to browse books, view details, and manage their book rentals. Built with Django framework.  
 
 ## 📌 Demo  
-![Local Library Demo](https://raw.githubusercontent.com/omidranjbaran/locallibrary/main/images/demo.gif)  
+![Local Library Demo](https://raw.githubusercontent.com/omidranjbaran/locallibrary/locallibrary.gif)  
 
 ## 🚀 Features  
 - 📚 **Book Catalog**: View a list of books, their details, and authors.  
